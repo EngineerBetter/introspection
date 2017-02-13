@@ -1,5 +1,9 @@
 # Pairing Introspection
 
+## What does my pair think?
+
+Above any suggestions here, ask your pair what they think, or how they feel about any given situation.
+
 ## Am I denying people the opportunity to learn?
 
 Maybe you're in your comfort zone and being super-productive. If things slow down when you stop driving, maybe that's a sign that your pair could do with more practice.
@@ -11,6 +15,10 @@ When was the last time I drove? It's not so much about 'doing your fair share' a
 ## Have I checked that my pair really understands what I'm doing?
 
 Is your pair responding with "yeah", "uh-huh", and not a lot else? Maybe they understand enough to tenuously follow what you're doing, but not enough if you asked them to drove.
+
+## Can I explain a different way?
+
+If your pair doesn't get what you're doing, perhaps you can try explaining the issue in a different way. Although the idea of learning styles is largely discredited, the notion of 'multiple intelligences' continues to be useful as a framing tool. If you've tried explaining with words, perhaps a diagram would help? If describing the details of an API isn't helping, maybe try talking through the flow of calls?
 
 ## Have I spoken up if I don't understand something?
 
