@@ -47,4 +47,4 @@ Negative emotional reactions to feedback fall into the following three categorie
 
 Don't look for what's _wrong_ about feedback, instead look for what's _different_. That's where the interesting stuff lies, and that's where you'll get to the bottom of misunderstandings and different interpretations.
 
-Try to avoid changing the topic of conversation to "well yeah, but always commit commented code". If there's another issue that comes up, that's fine to discuss, but deal with one situation at a time.
+Try to avoid changing the topic of conversation to "_well yeah, but you always end up committing commented-out code_". If there's another issue that comes up, that's fine to discuss, but deal with one situation at a time.
