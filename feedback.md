@@ -21,7 +21,7 @@ We often see our own shortcomings as a result of circumstance, and the shortcomi
 
 The following format is a handy tool for difficult conversations:
 
-**I saw** you doing this, and **I believed** that, and **I felt this**
+> **I saw** you doing this, and **I believed** that, and **I felt this**
 
 Start with what you saw/heard/read. This immediately exposes any misunderstandings of fact.
 
