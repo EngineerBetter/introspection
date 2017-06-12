@@ -10,7 +10,7 @@ Maybe you're in your comfort zone and being super-productive. If things slow dow
 
 ## Am I coasting too much?
 
-When was the last time I drove? It's not so much about 'doing your fair share' as making sure that you strengthen the right neural pathways to ensure that you really understand what's going on. Could I take over if my pairhad to disappear somewhere?
+When was the last time I drove? It's not so much about 'doing your fair share' as making sure that you strengthen the right neural pathways to ensure that you really understand what's going on. Could I take over if my pair had to disappear somewhere?
 
 ## Have I checked that my pair really understands what I'm doing?
 
@@ -26,4 +26,4 @@ It takes courage to slow someone down and to tell them that you don't understand
 
 ## What prompts me to start driving?
 
-Do you always take control after a certain point? Is there a pattern to the parts you take the keyboard for? 
+Do you always take control after a certain point? Is there a pattern to the parts you take the keyboard for?
