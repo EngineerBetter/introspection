@@ -31,8 +31,8 @@ How did it make you feel? Reasonable people will not begrudge you your emotions.
 
 |Feeling|Not A Feeling|
 |---|---|
-|Sad|I feel that curly braces are better on a new line|
-|Happy|I feel that Golang is a much more productive language|
+|Sad|I feel that the bug you committed has really hurt velocity|
+|Happy|I feel using Golang has made us much more productive|
 |Frustrated|I feel like you're not listening to me|
 
 You'll notice that in the above table the right-hand column are all beliefs, masquerading as feelings to make them irrefutable by others.
