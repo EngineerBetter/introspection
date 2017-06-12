@@ -48,3 +48,8 @@ Negative emotional reactions to feedback fall into the following three categorie
 Don't look for what's _wrong_ about feedback, instead look for what's _different_. That's where the interesting stuff lies, and that's where you'll get to the bottom of misunderstandings and different interpretations.
 
 Try to avoid changing the topic of conversation to "_well yeah, but you always end up committing commented-out code_". If there's another issue that comes up, that's fine to discuss, but deal with one situation at a time.
+
+## Further Reading
+
+* [Thanks For The Feedback](https://www.amazon.co.uk/Thanks-Feedback-Science-Receiving-Well/dp/0670922633/) (Deejay has a physical copy)
+* [Difficult Conversations](https://www.amazon.co.uk/Difficult-Conversations-Discuss-What-Matters/dp/0670921343/)
