@@ -39,6 +39,12 @@ How did it make you feel? Reasonable people will not begrudge you your emotions.
 
 You'll notice that in the above table the right-hand column are all beliefs, masquerading as feelings to make them irrefutable by others.
 
+## Seeking Feedback
+
+Most folks feel uncomfortable giving critical (AKA useful) evaluation and coaching. A question that may elicit useful input is:
+
+> What do I do to get in the way of my own success?
+
 ## Receiving Feedback
 
 Negative emotional reactions to feedback fall into the following three categories. If you catch yourself having a negative reaction, see if you can identify if any of these apply.
