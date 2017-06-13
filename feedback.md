@@ -19,7 +19,7 @@ We often see our own shortcomings as a result of circumstance, and the shortcomi
 
 ## Difficult Conversations
 
-Explicit disagreement is always better than implicit misunderstanding. To move from the latter to the former requires some degree of courage, which is handily one of the five values of eXtreme Programming. If such conversations _don't_ require courage, then by definition they're not difficult.
+**Explicit disagreement is always better than implicit misunderstanding**. To move from the latter to the former requires some degree of courage, which is handily one of the five values of eXtreme Programming. If such conversations _don't_ require courage, then by definition they're not difficult.
 
 The following format is a handy tool for starting difficult conversations:
 
