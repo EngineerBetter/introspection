@@ -8,6 +8,10 @@ Above any suggestions here, ask your pair what they think, or how they feel abou
 
 Maybe you're in your comfort zone and being super-productive. If things slow down when you stop driving, maybe that's a sign that your pair could do with more practice.
 
+## Am I explaining what I'm doing _before_ I do it?
+
+Sometimes its easier to type than to explain an idea. It's more socially awkward to remove something that's already been written than it is to critique an idea that is merely being discussed. Writing first and explaining after may put your pair on the back foot.
+
 ## Am I coasting too much?
 
 When was the last time I drove? It's not so much about 'doing your fair share' as making sure that you strengthen the right neural pathways to ensure that you really understand what's going on. Could I take over if my pair had to disappear somewhere?
