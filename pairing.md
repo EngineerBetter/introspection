@@ -1,6 +1,6 @@
 # Pairing Introspection
 
-## What does my pair think?
+## What does my pair think? How does my pair feel?
 
 Above any suggestions here, ask your pair what they think, or how they feel about any given situation.
 
