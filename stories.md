@@ -24,3 +24,15 @@ Tell-tale smell: the story mentions an unspecified plural
 ## Avoid "As a Persona I want..."
 
 If you didn't want it, it wouldn't be in the backlog.
+
+## How should I express my acceptance criteria?
+
+Two common formats which work, depending on context:
+
+- Gherkin language (GIVEN, WHEN, THEN)
+
+This is good when you need to be explicit about the start and end state.
+
+- Explicit list of steps
+
+This is easy for engineers to follow, but requires a more granular level of understanding
