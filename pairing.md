@@ -31,3 +31,8 @@ It takes courage to slow someone down and to tell them that you don't understand
 ## What prompts me to start driving?
 
 Do you always take control after a certain point? Is there a pattern to the parts you take the keyboard for?
+
+## If I'm pairing with someone who knows less than me, how can I help them learn?
+
+There can be many pitfalls when developers with different skill levels try pairing. 
+The natural instinct for the senior developer is to explain everything without allowing time for the junior developer to discover answers for themselves. Try using open ended questions instead of jumping straight into explanations.
