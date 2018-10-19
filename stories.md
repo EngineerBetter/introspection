@@ -16,7 +16,7 @@ What is it that the customer can do after the story, that they couldn't do befor
 
 The persona should not be the engineering team, nor the PM. The persona should be an end user or customer.
 
-Creating a persona of the engineering team leads to mistaking chores for stories, and makes the team appear to be delivering value.
+Creating a persona of the engineering team leads to mistaking chores for stories, and makes the team appear to be delivering value when in fact they are making themselves more efficient. The pay-off for this should be increased velocity later, not the earning of velocity now.
 
 ## Does this story deliver user value?
 
