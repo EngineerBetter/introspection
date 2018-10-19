@@ -26,8 +26,8 @@ If any story does not, to the best estimate of the PM, deliver user value, then 
 
 Stories must express user value in a testable statement. Stories must not be imperative instructions of "_do the thing_", as these instructions are meaningless to non-technical staff and could be chores in disguise.
 
-Good: I can cross the river.
-Bad: Build a bridge.
+* Good: I can cross the river.
+* Bad: Build a bridge.
 
 Perhaps the engineering team is better at building rafts than bridges. Why do we want a bridge?
 
@@ -35,9 +35,9 @@ Perhaps the engineering team is better at building rafts than bridges. Why do we
 
 Can you use fewer words to express the value to be delivered?
 
-Good: As a visitor I can see the home page
-Bad: As a visitor I want to be able to see the home page
-Bad: As a visitor I should be able to see the home page
+* Good: As a visitor I can see the home page
+* Bad: As a visitor I want to be able to see the home page
+* Bad: As a visitor I should be able to see the home page
 
 If there's only one person in your backlog, you can omit the "As a someone" too.
 
@@ -49,9 +49,9 @@ Tell-tale smell: the story has a list of things for you to act upon.
 
 ## Is this story specific?
 
-Bad: As an app developer I can find all the docs in one place
-Good: As an app developer I can find the logging docs on GitHub
-Good: As an app developer I can find the networking docs in Confluence
+* Bad: As an app developer I can find all the docs in one place
+* Good: As an app developer I can find the logging docs on GitHub
+* Good: As an app developer I can find the networking docs in Confluence
 
 If a story doesn't say _exactly_ what needs doing, then we can't estimate complexity, and there could be all sorts of assumption hiding, ready to bite us in the backside.
 
@@ -79,7 +79,7 @@ It is the Product Manager's responsibility to define the interface of the produc
 
 Imagine a backlog for a CLI tool. A new feature is to be added to allow a size of VM to be specified.
 
-Good: When I run `cli --vm large` I get a large VM
-Bad: When I ask for a large VM, I get one
+* Good: When I run `cli --vm large` I get a large VM
+* Bad: When I ask for a large VM, I get one
 
 The PM is the guardian of the user experience, and such an important facet should not be left to the whims of whichever engineer happens to pick up the story.
