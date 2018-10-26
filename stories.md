@@ -83,3 +83,27 @@ Imagine a backlog for a CLI tool. A new feature is to be added to allow a size o
 * Bad: When I ask for a large VM, I get one
 
 The PM is the guardian of the user experience, and such an important facet should not be left to the whims of whichever engineer happens to pick up the story.
+
+## Is this a chore or part of a story?
+
+The outcome of a chore should be to increase the long-term velocity of the engineering team.
+
+A chore should _not_ be a technical task that is on the critical path to business value. If something that _must_ happen to deliver a story is broken out into a chore, this disguises complexity - it makes a story look simpler and shorter. Working on chores that are actually parts of stories can make it look to stakeholders as if the engineering team is spending time working on its own stuff instead of on the business' priorities. This is dangerous in a low-trust environment.
+
+There will be times when it makes sense to play a genuine chore before a story, in order to make delivering that story easier. This is different to taking a critical part of a story and separating it out into a fake chore.
+
+Possible reasons to break this rule are to make progress more visible. However, this then obscures information that the original story was either too big or unavoidably complex.
+
+## Is this a spike or part of a story?
+
+The outcome of a spike is information - usually _"can this be done?"_
+
+A spike should not be used to work out _how_ something should be implemented. Deciding on the best/most appropriate implementation is part of every day work on stories, and every engineer has the authority to make whatever decisions they think are best.
+
+If a decision is poor, there are plenty of after-the-fact safeguards:
+
+* A new pair rotating onto the story
+* Other engineers later encountering the code, and raising concerns in a retro
+* Lower velocity as a result of the sub-optimal choice
+
+If the tests pass, and the acceptance criteria are met, then we can live with any technical decision until it causes a problem. If it never causes a problem, then we don't have to fix it, and it probably wasn't a poor choice to start off with.
