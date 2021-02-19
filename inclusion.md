@@ -15,11 +15,27 @@ Have I taken into consideration the needs and constraints of those around me as 
 Some examples:
 
 * Have I made assumptions about this person based on how they appear or identify?
-* Do the people around me have different biological needs, such as reasons for more toilet breaks?
 * Do other people have experiences I have not had, that cause us to look at the world differently? Can I learn from this?
-* Is the person next to me fidgeting because they are diagnosed with ADHD or similar?
 * Is it understandable for a non-native English speaker to mis-use terms?
 * Is this person uncomfortable because they've never met someone like me?
+
+## Have I considered other people's biological reality?
+
+When pairing, we try and align people's body clocks as much as possible by starting at the same time, and taking breaks at the same time. Other people may have concerns and rhythms that might not be outwardly obvious.
+
+* What is my pair's sleep cycle like? Are they peaking in the morning, or afternoon?
+* Have I considered that another person may have gynaecological issues, such as cramps, PMT or menopausal hot flushes?
+* Do the people around me have different biological needs, such as reasons for more toilet breaks?
+* Is the person next to me fidgeting because they are diagnosed with ADHD or similar?
+* Are other people using medication that may require more frequent breaks, or may create behaviours that need accommodating?
+
+## Have I helped create an inclusive environment by sharing my reality?
+
+Have I been brave and tactfully made other people aware of ways I'd like to be accommodated?
+
+Whilst we all have an obligation to be considerate and anticipate that others have needs which we do not, we can help our peers to help _us_ by communicating those needs. By discussing issues we can help normalise our the things that make us different, and foster a culture where people can be frank and open.
+
+We hire for social sensitivity and kindness. We should be able to have conversations about how we can best work together.
 
 ## Am I recognising the strengths of other ways of doing things?
 
