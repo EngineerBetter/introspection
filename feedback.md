@@ -29,7 +29,7 @@ Start with what you saw/heard/read. This immediately exposes any misunderstandin
 
 What was the conclusion you came to? Just because _you believed_ someone was being unreasonable doesn't mean that they were. Your interpretation of events is your own, and by focusing on your interpretation instead of making accusations you can help to avoid a confrontation.
 
-How did it make you feel? Reasonable people will not begrudge you your emotions. It's important to stop and think what really constitutes as an emotion though, because as adults we are atrociously bad at identifying them.
+What was your emotional reaction? Reasonable people will not begrudge you your emotions. It's important to stop and think what really constitutes as an emotion though, because as adults we are atrociously bad at identifying them.
 
 |Feeling|Not A Feeling|
 |---|---|
