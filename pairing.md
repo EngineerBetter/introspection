@@ -8,6 +8,12 @@ Above any suggestions here, ask your pair what they think, or how they feel abou
 
 Maybe you're in your comfort zone and being super-productive. If things slow down when you stop driving, maybe that's a sign that your pair could do with more practice.
 
+## Am I allowing my pair to go at their own pace?
+
+**It is vital that people are allowed to at their own pace** without explicit or implicit pressure. We pair so that people can learn and gain context on systems; if one half of the pair can't keep up, then they're not learning anything and not gaining context. Any slowdown is a cost that EngineerBetter is willing to absorb. 
+
+If there's a speed discrepancy between you, consider setting a timer and taking turns. 
+
 ## Am I explaining what I'm doing _before_ I do it?
 
 Sometimes its easier to type than to explain an idea. It's more socially awkward to remove something that's already been written than it is to critique an idea that is merely being discussed. Writing first and explaining after may put your pair on the back foot.
