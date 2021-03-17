@@ -10,7 +10,7 @@ Maybe you're in your comfort zone and being super-productive. If things slow dow
 
 ## Am I allowing my pair to go at their own pace?
 
-**It is vital that people are allowed to at their own pace** without explicit or implicit pressure. We pair so that people can learn and gain context on systems; if one half of the pair can't keep up, then they're not learning anything and not gaining context. Any slowdown is a cost that EngineerBetter is willing to absorb. 
+**It is vital that people are allowed to work at their own pace** without explicit or implicit pressure. We pair so that people can learn and gain context on systems; if one half of the pair can't keep up, then they're not learning anything and not gaining context. Any slowdown is a cost that EngineerBetter is willing to absorb. 
 
 If there's a speed discrepancy between you, consider setting a timer and taking turns. 
 
