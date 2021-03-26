@@ -39,7 +39,7 @@ We hire for social sensitivity and kindness. We should be able to have conversat
 
 ## Am I recognising the strengths of other ways of doing things?
 
-Am I dismissing the tendencies of others to do things differently than I would as weaknesses? Am I considering that alternative approaches might balance out my own blind spots?
+Am I dismissing the tendencies of others to do things differently than I would as weaknesses? Am I considering that alternative approaches might balance out my own weaknesses?
 
 ## Am I respecting other people's ethics?
 
