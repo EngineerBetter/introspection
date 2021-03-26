@@ -43,9 +43,9 @@ Am I dismissing the tendencies of others to do things differently than I would a
 
 ## Am I respecting other people's ethics?
 
-Conflict and argument often arise out of differences in belief. Assuming a belief in objective truth (notwithstanding that such a belief is not universally held) we can often resolve those conflicts by first talking enough to understand what the difference of belief is, and then searching for an objective truth such that we can align our beliefs.
+Conflict and argument often arise out of differences in belief. If we believe in an objective truth (notwithstanding that such a belief is not universally held) we can often resolve those conflicts by first talking enough to understand what the difference of belief is, and then searching for an objective truth such that we can align our beliefs towards it.
 
-Some conflicting beliefs are more likely to be innate and practically unverifiable, at which point tolerance is the only strategy available. Ethics fall into this category.
+Some conflicting beliefs are more likely to be innate and practically unverifiable, at which point, tolerance is the only strategy available. Ethics fall into this category.
 
 An example: some people and cultures believe that the group is more important than the individual, and other people and cultures believe that the individual is more important than the group. A society that believed one or the other in totality at the population level would either be repressive or unable to function. Hence the subpopulations of each belief must co-exist at some level of dynamic equilibrium, and whether either is right or wong is a matter of philosophy and thus is unlikely to be resolved in a Slack conversation.
 
