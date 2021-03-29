@@ -39,7 +39,7 @@ Can you use fewer words to express the value to be delivered?
 * Bad: As a visitor I want to be able to see the home page
 * Bad: As a visitor I should be able to see the home page
 
-If there's only one person in your backlog, you can omit the "As a someone" too.
+If there's only one persona in your backlog, you can omit the "As a someone" too.
 
 ## Does this story have too many deliverables?
 
