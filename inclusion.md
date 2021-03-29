@@ -16,6 +16,7 @@ Some examples:
 
 * Have I made assumptions about this person based on how they appear or identify?
 * Do other people have experiences I have not had, that cause us to look at the world differently? Can I learn from this?
+* Has this person faced challenges that I'm not aware of, and might this explain differences of approach or belief?
 * Is it understandable for a non-native English speaker to mis-use terms?
 * Is this person uncomfortable because they've never met someone like me?
 
