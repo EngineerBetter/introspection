@@ -34,7 +34,7 @@ When was the last time I drove? It's not so much about 'doing your fair share' a
 
 ## Have I checked that my pair really understands what I'm doing?
 
-Is your pair responding with "yeah", "uh-huh", and not a lot else? Maybe they understand enough to tenuously follow what you're doing, but not enough if you asked them to drove.
+Is your pair responding with "yeah", "uh-huh", and not a lot else? Maybe they understand enough to tenuously follow what you're doing, but not enough if you asked them to drive.
 
 ## Can I explain a different way?
 
