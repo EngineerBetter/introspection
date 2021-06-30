@@ -35,7 +35,7 @@ Perhaps the engineering team is better at building rafts than bridges. Why do we
 
 Can you use fewer words to express the value to be delivered?
 
-* Good: As a visitor I can see the home page
+* Good: Visitors can see the home page
 * Bad: As a visitor I want to be able to see the home page
 * Bad: As a visitor I should be able to see the home page
 
