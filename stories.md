@@ -6,7 +6,7 @@ Above all else, remember the promise upon which trust between the customer and t
 
 _We will sustainably deliver the most important thing via the shortest route._
 
-We must demonstrate to stakeholders exactly what user value we have delivered and are working on at any given time. We can't work in a deadline-free, no-fixed-deliverable methodology unless we keep the above promise, and more importantly, _are trusted_ to keep the above promise.
+We must demonstrate to stakeholders exactly what customer value we have delivered and are working on at any given time. We can't work in a deadline-free, no-fixed-deliverable methodology unless we keep the above promise, and more importantly, _are trusted_ to keep the above promise.
 
 ## Who is the customer?
 
@@ -18,13 +18,13 @@ Creating a persona of the engineering team leads to mistaking chores for stories
 
 What is it that the customer can do after the story, that they couldn't do before?
 
-## Does this story deliver user value?
+## Does this story deliver customer value?
 
-If any story does not, to the best estimate of the PM, deliver user value, then we're abusing the trust of business stakeholders. Any time we dress up a chore as a story, we're lying to the product owner.
+If any story does not, to the best estimate of the PM, deliver customer value, then we're abusing the trust of business stakeholders. Any time we dress up a chore as a story, we're lying to the product owner.
 
 ## Does this story express a value statement?
 
-Stories must express user value in a testable statement. Stories must not be imperative instructions of "_do the thing_", as these instructions are meaningless to non-technical staff and could be chores in disguise.
+Stories must express customer value in a testable statement. Stories must not be imperative instructions of "_do the thing_", as these instructions are meaningless to non-technical staff and could be chores in disguise.
 
 * Good: I can cross the river.
 * Bad: Build a bridge.
@@ -73,16 +73,16 @@ This is good when you need to be explicit about the start and end state. Often t
 
 This is easy for engineers to follow, but requires a more granular level of understanding on the part of the PM.
 
-## Do the acceptance criteria define the user experience?
+## Do the acceptance criteria define the customer experience?
 
-It is the Product Manager's responsibility to define the interface of the product. Acceptance criteria should define what the user experience and interface are.
+It is the Product Manager's responsibility to define the interface of the product. Acceptance criteria should define what the customer experience and interface are.
 
 Imagine a backlog for a CLI tool. A new feature is to be added to allow a size of VM to be specified.
 
 * Good: When I run `cli --vm large` I get a large VM
 * Bad: When I ask for a large VM, I get one
 
-The PM is the guardian of the user experience, and such an important facet should not be left to the whims of whichever engineer happens to pick up the story.
+The PM is the guardian of the customer experience, and such an important facet should not be left to the whims of whichever engineer happens to pick up the story.
 
 ## Is this a chore or part of a story?
 
