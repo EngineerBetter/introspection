@@ -31,6 +31,8 @@ Stories must express customer value in a testable statement. Stories must not be
 
 Perhaps the engineering team is better at building rafts than bridges. Why do we want a bridge?
 
+'Do the thing' stories can also be hard to test. The acceptance criteria often end up being 'the thing is done'.
+
 ## Can the story be expressed more succinctly?
 
 Can you use fewer words to express the value to be delivered?
