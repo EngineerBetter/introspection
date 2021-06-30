@@ -8,15 +8,15 @@ _We will sustainably deliver the most important thing via the shortest route._
 
 We must demonstrate to stakeholders exactly what user value we have delivered and are working on at any given time. We can't work in a deadline-free, no-fixed-deliverable methodology unless we keep the above promise, and more importantly, _are trusted_ to keep the above promise.
 
-## Does this story say what a persona can now do?
-
-What is it that the customer can do after the story, that they couldn't do before?
-
 ## Who is the customer?
 
 The persona should not be the engineering team, nor the PM. The persona should be an end user or customer.
 
 Creating a persona of the engineering team leads to mistaking chores for stories, and makes the team appear to be delivering value when in fact they are making themselves more efficient. The pay-off for this should be increased velocity later, not the earning of velocity now.
+
+## Does this story say what a persona can now do?
+
+What is it that the customer can do after the story, that they couldn't do before?
 
 ## Does this story deliver user value?
 
