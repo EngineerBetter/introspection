@@ -67,11 +67,11 @@ Two common formats which work, depending on context:
 
 - Gherkin language (GIVEN, WHEN, THEN)
 
-This is good when you need to be explicit about the start and end state.
+This is good when you need to be explicit about the start and end state. Often this format depends on shared understanding of what the various clauses mean.
 
 - Explicit list of steps
 
-This is easy for engineers to follow, but requires a more granular level of understanding.
+This is easy for engineers to follow, but requires a more granular level of understanding on the part of the PM.
 
 ## Do the acceptance criteria define the user experience?
 
