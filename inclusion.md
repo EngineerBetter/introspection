@@ -34,7 +34,7 @@ When pairing, we try and align people's body clocks as much as possible by start
 
 Have I been brave and tactfully made other people aware of ways I'd like to be accommodated?
 
-Whilst we all have an obligation to be considerate and anticipate that others have needs which we do not, we can help our peers to help _us_ by communicating those needs. By discussing issues we can help normalise our the things that make us different, and foster a culture where people can be frank and open.
+Whilst we all have an obligation to be considerate and anticipate that others have needs which we do not, we can help our peers to help _us_ by communicating those needs. By discussing issues we can help normalise the things that make us different, and foster a culture where people can be frank and open.
 
 We hire for social sensitivity and kindness. We should be able to have conversations about how we can best work together.
 
